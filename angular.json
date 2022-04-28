@@ -22,8 +22,8 @@
           "options": {
             "outputPath": "docs/",
             "index": "docs/index.html",
-            "main": "docs/main.js",
-            "polyfills": "docs/polyfills.js",
+            "main": "src/main.ts",
+            "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
             "inlineStyleLanguage": "scss",
             "assets": [
